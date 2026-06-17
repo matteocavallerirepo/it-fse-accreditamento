@@ -1,0 +1,124 @@
+{
+  "appVendor": "LNF",
+  "appID": "2CARE-MODULO-FSE",
+  "appVersion": "1.0",
+  "results": [
+    {
+      "id": 29,
+      "ts": "2026-06-17T00:00:00Z",
+      "traceId": "aeb13a10730b2e505040bca2b3d2ca2b",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+      "files": [
+        "Caso-29-Unsigned.pdf"
+      ]
+    },
+    {
+      "id": 37,
+      "ts": "2026-06-17T00:00:00Z",
+      "traceId": "a881ccd8b3d2d011383f42744fe496e7",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+      "files": [
+        "Caso-37-Unsigned.pdf"
+      ]
+    },
+    {
+      "id": 64,
+      "ts": "2026-06-17T00:00:00Z",
+      "traceId": "cad5139f9fdb3a32e1db4e272db2be7f",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.5a39335b3529acae692acc9954d3b3d71f69e84963c9fbe73f927ac102c839b3.6f02c84c88^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "Caso-64-Unsigned.pdf"
+      ]
+    },
+    {
+      "id": 66,
+      "ts": "2026-06-17T00:00:00Z",
+      "traceId": "bb147bd7527df80eb70e660567f4016d",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.5a39335b3529acae692acc9954d3b3d71f69e84963c9fbe73f927ac102c839b3.8b0ec2f2fd^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "Caso-66-Unsigned.pdf"
+      ]
+    },
+    {
+      "id": 67,
+      "ts": "2026-06-17T00:00:00Z",
+      "traceId": "85d34721744bd6a3b61ce345b91780bf",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.5a39335b3529acae692acc9954d3b3d71f69e84963c9fbe73f927ac102c839b3.a068467179^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "Caso-67-Unsigned.pdf"
+      ]
+    },
+    {
+      "id": 68,
+      "ts": "2026-06-17T00:00:00Z",
+      "traceId": "1ef2247a0ad04063a31729d814e57a50",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.5a39335b3529acae692acc9954d3b3d71f69e84963c9fbe73f927ac102c839b3.eeda87f368^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "Caso-68-Unsigned.pdf"
+      ]
+    },
+    {
+      "id": 69,
+      "ts": "2026-06-17T00:00:00Z",
+      "traceId": "b0935f1d4c3f93552ed8910a70383bb8",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.5a39335b3529acae692acc9954d3b3d71f69e84963c9fbe73f927ac102c839b3.552162c6f6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "Caso-69-Unsigned.pdf"
+      ]
+    },
+    {
+      "id": 70,
+      "ts": "2026-06-17T00:00:00Z",
+      "traceId": "d97f6f2f67983e61db5168b2a67d3546",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.5a39335b3529acae692acc9954d3b3d71f69e84963c9fbe73f927ac102c839b3.042204f5a0^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "Caso-70-Unsigned.pdf"
+      ]
+    },
+    {
+      "id": 73,
+      "ts": "2026-06-17T00:00:00Z",
+      "traceId": "8422629957a8a8d4c3766e90dee95975",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.5a39335b3529acae692acc9954d3b3d71f69e84963c9fbe73f927ac102c839b3.6bec1d6354^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "Caso-73-Unsigned.pdf"
+      ]
+    },
+    {
+      "id": 74,
+      "ts": "2026-06-17T00:00:00Z",
+      "traceId": "432f3600ecd38024d275b79e6e9fe3dc",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.5a39335b3529acae692acc9954d3b3d71f69e84963c9fbe73f927ac102c839b3.c8e8386258^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "Caso-74-Unsigned.pdf"
+      ]
+    },
+    {
+      "id": 450,
+      "ts": "2026-06-17T00:00:00Z",
+      "traceId": "ad5b26e13b896f10499412e74fd6d9c2",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.5a39335b3529acae692acc9954d3b3d71f69e84963c9fbe73f927ac102c839b3.4ad7c6e318^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "Caso-450-Unsigned.pdf"
+      ]
+    },
+    {
+      "id": 451,
+      "ts": "2026-06-17T00:00:00Z",
+      "traceId": "695e28bf3114a608b778074b191e1b2d",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.41170717bdca14382802ae32221354ce580ba28a8eed4b0cb21285254f62e999.75b52bcdcc^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "Caso-451-Unsigned.pdf"
+      ]
+    },
+    {
+      "id": 467,
+      "ts": "2026-06-17T00:00:00Z",
+      "traceId": "123659345eb210e34cb08a4265714512",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.5a39335b3529acae692acc9954d3b3d71f69e84963c9fbe73f927ac102c839b3.505874c670^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "Caso-467-Unsigned.pdf"
+      ]
+    }
+  ]
+}
