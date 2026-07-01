@@ -1,299 +1,231 @@
-[
-  {
-    "id": "29",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T12:29:36",
-    "traceId": "17aa2c19ac22211448428b01b5c52de9",
-    "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 403): Campo token JWT non valido — Il campo purpose_of_use non è valorizzato"
-  },
-  {
-    "id": "37",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T12:32:04",
-    "traceId": "11f6abbbd37e5e07d22bb0aa443dec95",
-    "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 403): Campo token JWT non valido — Il campo action_id non è corretto"
-  },
-  {
-    "id": "64",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T12:34:02",
-    "traceId": "a1b7caabdd18046ca55148f7a873e3df",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.179d26a431^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 422): Errore semantico — [Errore-47| codice fiscale 'tstnuo94r18f205j' cittadino ed operatore: 16 cifre [A-Z0-9]{16}],[W003|  Sezione Condizioni del paziente e diagnosi alla dimissione: La sezione PUO' contenere l'elemento 'entry' ]"
-  },
-  {
-    "id": "66",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T12:34:42",
-    "traceId": "386ab384af46b13df7678c0690bde8a5",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.bf117c9de2^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 422): Errore semantico — [ERRORE-11| L'elemento ClinicalDocument/recordTarget/patientRole/addr DEVE riportare i sotto-elementi 'country', 'city' e 'streetAddressLine' ],[W003|  Sezione Condizioni del paziente e diagnosi alla dimissione: La sezione PUO' contenere l'elemento 'entry' ]"
-  },
-  {
-    "id": "67",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T12:35:48",
-    "traceId": "0580f4d828eba87426d2329f1b4b5295",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.acf50ad255^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 422): Errore semantico — [ERRORE-14| L'elemento ClinicalDocument/recordTaget/patientRole/patient/name DEVE riportare gli elementi 'given' e 'family'],[W003|  Sezione Condizioni del paziente e diagnosi alla dimissione: La sezione PUO' contenere l'elemento 'entry' ]"
-  },
-  {
-    "id": "68",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T12:36:30",
-    "traceId": "279ae8dbca767db96d88c797e8486ea4",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.011cc83982^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 400): Errore vocabolario — Almeno uno dei seguenti vocaboli non è censito: [CodeSystem: 2.16.840.1.113883.5.1 v2.1.0, Codes: X]"
-  },
-  {
-    "id": "69",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T12:37:10",
-    "traceId": "663a9d682f34dc291e29b69d4d6a9b90",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.9effb85965^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 422): Errore semantico — [ERRORE-b5| Sezione Condizioni del paziente e diagnosi alla dimissione: la sezione DEVE essere presente],[ERRORE-b6| Sezione Condizioni del paziente e diagnosi alla dimissione: La sezione DEVE contenere l'elemento 'text'],[W003|  Sezione Condizioni del paziente e diagnosi alla dimissione: La sezione PUO' contenere l'elemento 'entry' ]"
-  },
-  {
-    "id": "70",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T12:37:59",
-    "traceId": "c48f58f4672aacea0c914313760a123a",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.f6cf3c0e59^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 422): Errore semantico — [ERRORE-b4| Sezione Decorso Ospedaliero: La sezione deve contenere l'elemento 'text'],[W003|  Sezione Condizioni del paziente e diagnosi alla dimissione: La sezione PUO' contenere l'elemento 'entry' ]"
-  },
-  {
-    "id": "73",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T12:38:39",
-    "traceId": "943e3bfaee37787443b71ed15f950a06",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.71cb6d01ad^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 400): Errore vocabolario — Almeno uno dei seguenti vocaboli non è censito: [CodeSystem: 2.16.840.1.113883.6.103, Codes: CODICE_NON_VALIDO_99999]"
-  },
-  {
-    "id": "74",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T12:39:26",
-    "traceId": "190d75c6371399ec1b1776e45a68117f",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.97c5ad3851^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 400): Errore vocabolario — Almeno uno dei seguenti vocaboli non è censito: [CodeSystem: 2.16.840.1.113883.5.112 v2.1.0, Codes: CODICE_VIA_NON_VALIDO], [CodeSystem: 2.16.840.1.113883.2.9.6.1.5, Codes: 000000]"
-  },
-  {
-    "id": "152",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T12:11:38",
-    "traceId": "4d823401fcdf9ccde04627e42bcd7c03",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.392aeb4bea^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 403): Campo token JWT non valido — JWT payload: Person id presente nel JWT differente dal codice fiscale del paziente previsto sul CDA"
-  },
-  {
-    "id": "154",
-    "data_esecuzione": "2026-06-25",
-    "timestamp": "2026-06-25T19:54:43",
-    "traceId": "8e0dc281e9668e1e7e2f28d957facb97",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.40c0ebd8aa^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 422): Errore semantico — [ERRORE-11| L'elemento ClinicalDocument/recordTarget/patientRole/addr DEVE riportare i sotto-elementi 'country', 'city' e 'streetAddressLine' ]"
-  },
-  {
-    "id": "155",
-    "data_esecuzione": "2026-06-25",
-    "timestamp": "2026-06-25T19:56:09",
-    "traceId": "1b5af2c8e60b29e986bff19e6082520d",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.b9ad3dcd72^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 422): Errore semantico — [ERRORE-14| L'elemento ClinicalDocument/recordTaget/patientRole/patient/name DEVE riportare gli elementi 'given' e 'family']"
-  },
-  {
-    "id": "156",
-    "data_esecuzione": "2026-06-25",
-    "timestamp": "2026-06-25T19:57:02",
-    "traceId": "15e9240a3a30d1f58eda0486b0e09d22",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.90d7fdb16c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 400): Errore vocabolario — Almeno uno dei seguenti vocaboli non è censito: [CodeSystem: 2.16.840.1.113883.5.1 v2.1.0, Codes: X]"
-  },
-  {
-    "id": "158",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T11:32:56",
-    "traceId": "95b0ef9af734fe40a6dbcb33906e7095",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.bc97764e13^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 400): Errore vocabolario — Almeno uno dei seguenti vocaboli non è censito: [CodeSystem: 2.16.840.1.113883.5.7 v2.1.0, Codes: U]"
-  },
-  {
-    "id": "159",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T10:58:48",
-    "traceId": "aaaaa6f51e08c94fd50bfa4dc1ef1175",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.f82d338ec7^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 400): Errore di sintassi — ERROR: -1,-1 cvc-complex-type.2.4.b: The content of element 'order' is not complete. One of '{\"urn:hl7-org:v3\":realmCode, \"urn:hl7-org:v3\":typeId, \"urn:hl7-org:v3\":templateId, \"urn:hl7-org:v3\":id}' is expected."
-  },
-  {
-    "id": "160",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T11:00:12",
-    "traceId": "091e6955782950863a796930fce7946d",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.f2d5d95e7c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 400): Errore di sintassi — ERROR: -1,-1 cvc-complex-type.2.4.a: Invalid content was found starting with element '{\"urn:hl7-org:v3\":effectiveTime}'. One of '{\"urn:hl7-org:v3\":realmCode, \"urn:hl7-org:v3\":typeId, \"urn:hl7-org:v3\":templateId, \"urn:hl7-org:v3\":id, \"urn:hl7-org:v3\":code}' is expected.,ERROR: -1,-1 cvc-complex-type.2.4.a: Invalid content was found starting with element '{\"urn:hl7-org:v3\":effectiveTime}'. One of '{\"urn:hl7-org:v3\":realmCode, \"urn:hl7-org:v3\":typeId, \"urn:hl7-org:v3\":templateId, \"urn:hl7-org:v3\":id, \"urn:hl7-org:v3\":code}' is expected.,ERROR: -1,-1 cvc-complex-type.2.4.a: Invalid content was found starting with element '{\"urn:hl7-org:v3\":effectiveTime}'. One of '{\"urn:hl7-org:v3\":realmCode, \"urn:hl7-org:v3\":typeId, \"urn:hl7-org:v3\":templateId, \"urn:hl7-org:v3\":id, \"urn:hl7-org:v3\":code}' is expected."
-  },
-  {
-    "id": "161",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T11:01:24",
-    "traceId": "02e4856aecdf6cddb3daa1d96dea493c",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.9e0c9a6277^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 422): Errore semantico — [ERRORE-b4| Sezione Referto: la sezione DEVE essere presente],[ERRORE-b5| Sezione Referto: la sezione DEVE contenere un elemento 'text']"
-  },
-  {
-    "id": "162",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T11:02:26",
-    "traceId": "b020d95b28192b12de13d573f23315b5",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.52f2222372^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 422): Errore semantico — [ERRORE-b6| Sezione Quesito Diagnostico: la sezione DEVE contenere un elemento 'text']"
-  },
-  {
-    "id": "163",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T11:03:11",
-    "traceId": "03e0c83104581b30002d16ef500f6f86",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.67adfe9d59^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 422): Errore semantico — [ERRORE-b3| Sezione Prestazioni: la sezione DEVE contenere un elemento 'entry']"
-  },
-  {
-    "id": "164",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T11:03:57",
-    "traceId": "047ff9b142fd5889b2f8201bc8250b4d",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.8fc4be13e6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 422): Errore semantico — [ERRORE-b26| Sezione Storia Clinica: l'elemento entry/observation/effectiveTime deve essere presente e deve avere l'elemento 'low' valorizzato]"
-  },
-  {
-    "id": "165",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T11:04:55",
-    "traceId": "d981dd50bfd6a0addddcbb0452e1dec8",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.d86d15e2d0^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 422): Errore semantico — [ERRORE-b36| Sezione Storia Clinica: l'elemento entry/organizer/subject/relatedSubject deve avere l'attributo @classCode='PRS' e deve contenere l'elemento 'code']"
-  },
-  {
-    "id": "166",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T11:09:00",
-    "traceId": "1a00443b3799e49188c4c2dcba402340",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.d59df226a1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 422): Errore semantico — [ERRORE-b26| Sezione Storia Clinica: l'elemento entry/observation/effectiveTime deve essere presente e deve avere l'elemento 'low' valorizzato]"
-  },
-  {
-    "id": "167",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T11:21:56",
-    "traceId": "6574dc765742e84a60b72e812273c782",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.585acc8856^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 422): Errore semantico — [ERRORE-b50| Sotto-sezione Allergie: l'entry/act deve includere uno ed un solo elemento entryRelationship/observation con attributo @code='52473-6' e @codeSystem='2.16.840.1.113883.6.1],[ERRORE-b52| Sotto-sezione Allergie: l'elemento entry/act/entryRelationship/observation/statusCode/@code deve assumere il valore costante 'completed'],[ERRORE-b53| Sotto-sezione Allergie: l'elemento entry/act/entryRelationship/observation/effectiveTime deve essere presente e deve avere l'elemento 'low' valorizzato ],[ERRORE-b54| Sotto-sezione Allergie: l'elemento entry/act/entryRelationship/observation/value deve avere l'attributo @xsi:type='CD'],[ERRORE-b56| Sotto-sezione Allergie: l'elemento entry/act/entryRelationship/observation/value non codificato, deve avere l'elemento originalText/reference/@value valorizzato, altrimenti l'elemento originalText/reference può non essere presente],[ERRORE-b57| Sotto-sezione Allergie: entry/act/entryRelationship/observation deve contenere almeno un elemento 'participant']"
-  },
-  {
-    "id": "168",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T11:23:41",
-    "traceId": "d7f15074a4a83e16c9c58250d2aabf46",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.eb6d123277^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 400): Errore vocabolario — Almeno uno dei seguenti vocaboli non è censito: [CodeSystem: 2.16.840.1.113883.6.103, Codes: CODICE_NON_VALIDO_99999]"
-  },
-  {
-    "id": "169",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T11:24:40",
-    "traceId": "cce66f7e68a2da9258e13b2274ed765e",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.76c278b0d7^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 422): Errore semantico — [ERRORE-30| L'elemento ClinicalDocument/legalAuthenticator/signatureCode deve essere valorizzato con il codice \"S\" ],[ERRORE-33a| L'elemento ClinicalDocument/documentationOf/serviceEvent deve contenere l'elemento code e DEVE valorizzare il suo attributo code con uno dei seguenti valori: 'PROG'|'DIR' ]"
-  },
-  {
-    "id": "448",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T12:12:15",
-    "traceId": "84590c411ba75008c55602c3be9284d7",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.e020262bc4^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "OK",
-    "errore": ""
-  },
-  {
-    "id": "449",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T12:18:08",
-    "traceId": "0d51b630f5e4d28cf9abf0653a0342c1",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.b94422c62a30aff0ab212e0619806c532291e217bd3c80aa22f0f3c4bca7c47b.ffaef19ed7^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "OK",
-    "errore": ""
-  },
-  {
-    "id": "450",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T12:40:10",
-    "traceId": "8cdadbfc0288d25a74f56c6b707c9469",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.8bf3e4c8b5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "OK",
-    "errore": ""
-  },
-  {
-    "id": "451",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T12:42:04",
-    "traceId": "5e0a4a406edd6e1cc0a8cc356863ff13",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.cdf23ba9ca8218b7b98537f5d2d15834887f5488a9a295bfaecb63778747e5bf.adffe855f3^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "OK",
-    "errore": ""
-  },
-  {
-    "id": "461",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T11:25:58",
-    "traceId": "22714e348a6849d47ef653b63dc8a92e",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.5539b92e27^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 400): Errore vocabolario — Almeno uno dei seguenti vocaboli non è censito: [CodeSystem: 2.16.840.1.113883.6.1 v2.82, Codes: CODICE_NON_NEL_VOCABOLARIO_99999]"
-  },
-  {
-    "id": "467",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T12:32:59",
-    "traceId": "2811384b8192b6e5f16cf613597ebf64",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.9e94638fc1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 400): Errore di sintassi — ERROR: -1,-1 cvc-complex-type.2.4.a: Invalid content was found starting with element '{\"urn:hl7-org:v3\":languageCode}'. One of '{\"urn:hl7-org:v3\":confidentialityCode}' is expected."
-  },
-  {
-    "id": "468",
-    "data_esecuzione": "2026-06-26",
-    "timestamp": "2026-06-26T11:26:44",
-    "traceId": "b77e6daae3b80b2243630c3676385370",
-    "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.f0f3416c0d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-    "esito": "KO",
-    "errore": "Errore FSE 2.0 (HTTP 403): Campo token JWT non valido — JWT payload: non è stato possibile verificare il codice fiscale del paziente presente nel CDA"
-  }
-]
+{
+  "appVendor": "LNF",
+  "appID": "2CARE-MODULO-FSE",
+  "appVersion": "1.1",
+  "results": [
+    {
+      "id": 29,
+      "ts": "2026-06-26T12:29:36Z",
+      "traceId": "17aa2c19ac22211448428b01b5c52de9",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+      "files": ["Caso-29-Unsigned.pdf"]
+    },
+    {
+      "id": 37,
+      "ts": "2026-06-26T12:32:04Z",
+      "traceId": "11f6abbbd37e5e07d22bb0aa443dec95",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+      "files": ["Caso-37-Unsigned.pdf"]
+    },
+    {
+      "id": 64,
+      "ts": "2026-06-26T12:34:02Z",
+      "traceId": "a1b7caabdd18046ca55148f7a873e3df",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.179d26a431^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-64-Unsigned.pdf"]
+    },
+    {
+      "id": 66,
+      "ts": "2026-06-26T12:34:42Z",
+      "traceId": "386ab384af46b13df7678c0690bde8a5",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.bf117c9de2^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-66-Unsigned.pdf"]
+    },
+    {
+      "id": 67,
+      "ts": "2026-06-26T12:35:48Z",
+      "traceId": "0580f4d828eba87426d2329f1b4b5295",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.acf50ad255^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-67-Unsigned.pdf"]
+    },
+    {
+      "id": 68,
+      "ts": "2026-06-26T12:36:30Z",
+      "traceId": "279ae8dbca767db96d88c797e8486ea4",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.011cc83982^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-68-Unsigned.pdf"]
+    },
+    {
+      "id": 69,
+      "ts": "2026-06-26T12:37:10Z",
+      "traceId": "663a9d682f34dc291e29b69d4d6a9b90",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.9effb85965^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-69-Unsigned.pdf"]
+    },
+    {
+      "id": 70,
+      "ts": "2026-06-26T12:37:59Z",
+      "traceId": "c48f58f4672aacea0c914313760a123a",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.f6cf3c0e59^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-70-Unsigned.pdf"]
+    },
+    {
+      "id": 73,
+      "ts": "2026-06-26T12:38:39Z",
+      "traceId": "943e3bfaee37787443b71ed15f950a06",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.71cb6d01ad^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-73-Unsigned.pdf"]
+    },
+    {
+      "id": 74,
+      "ts": "2026-06-26T12:39:26Z",
+      "traceId": "190d75c6371399ec1b1776e45a68117f",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.97c5ad3851^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-74-Unsigned.pdf"]
+    },
+    {
+      "id": 152,
+      "ts": "2026-06-26T12:11:38Z",
+      "traceId": "4d823401fcdf9ccde04627e42bcd7c03",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.392aeb4bea^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-152-Unsigned.pdf"]
+    },
+    {
+      "id": 154,
+      "ts": "2026-06-25T19:54:43Z",
+      "traceId": "8e0dc281e9668e1e7e2f28d957facb97",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.40c0ebd8aa^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-154-Unsigned.pdf"]
+    },
+    {
+      "id": 155,
+      "ts": "2026-06-25T19:56:09Z",
+      "traceId": "1b5af2c8e60b29e986bff19e6082520d",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.b9ad3dcd72^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-155-Unsigned.pdf"]
+    },
+    {
+      "id": 156,
+      "ts": "2026-06-25T19:57:02Z",
+      "traceId": "15e9240a3a30d1f58eda0486b0e09d22",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.90d7fdb16c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-156-Unsigned.pdf"]
+    },
+    {
+      "id": 159,
+      "ts": "2026-06-26T10:58:48Z",
+      "traceId": "aaaaa6f51e08c94fd50bfa4dc1ef1175",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.f82d338ec7^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-159-Unsigned.pdf"]
+    },
+    {
+      "id": 160,
+      "ts": "2026-06-26T11:00:12Z",
+      "traceId": "091e6955782950863a796930fce7946d",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.f2d5d95e7c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-160-Unsigned.pdf"]
+    },
+    {
+      "id": 161,
+      "ts": "2026-06-26T11:01:24Z",
+      "traceId": "02e4856aecdf6cddb3daa1d96dea493c",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.9e0c9a6277^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-161-Unsigned.pdf"]
+    },
+    {
+      "id": 162,
+      "ts": "2026-06-26T11:02:26Z",
+      "traceId": "b020d95b28192b12de13d573f23315b5",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.52f2222372^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-162-Unsigned.pdf"]
+    },
+    {
+      "id": 163,
+      "ts": "2026-06-26T11:03:11Z",
+      "traceId": "03e0c83104581b30002d16ef500f6f86",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.67adfe9d59^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-163-Unsigned.pdf"]
+    },
+    {
+      "id": 164,
+      "ts": "2026-06-26T11:03:57Z",
+      "traceId": "047ff9b142fd5889b2f8201bc8250b4d",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.8fc4be13e6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-164-Unsigned.pdf"]
+    },
+    {
+      "id": 165,
+      "ts": "2026-06-26T11:04:55Z",
+      "traceId": "d981dd50bfd6a0addddcbb0452e1dec8",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.d86d15e2d0^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-165-Unsigned.pdf"]
+    },
+    {
+      "id": 166,
+      "ts": "2026-06-26T11:09:00Z",
+      "traceId": "1a00443b3799e49188c4c2dcba402340",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.d59df226a1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-166-Unsigned.pdf"]
+    },
+    {
+      "id": 167,
+      "ts": "2026-06-26T11:21:56Z",
+      "traceId": "6574dc765742e84a60b72e812273c782",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.585acc8856^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-167-Unsigned.pdf"]
+    },
+    {
+      "id": 168,
+      "ts": "2026-06-26T11:23:41Z",
+      "traceId": "d7f15074a4a83e16c9c58250d2aabf46",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.eb6d123277^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-168-Unsigned.pdf"]
+    },
+    {
+      "id": 169,
+      "ts": "2026-06-26T11:24:40Z",
+      "traceId": "cce66f7e68a2da9258e13b2274ed765e",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.76c278b0d7^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-169-Unsigned.pdf"]
+    },
+    {
+      "id": 448,
+      "ts": "2026-06-26T12:12:15Z",
+      "traceId": "84590c411ba75008c55602c3be9284d7",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.e020262bc4^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-448-Unsigned.pdf", "Caso-448-Signed.pdf"]
+    },
+    {
+      "id": 449,
+      "ts": "2026-06-26T12:18:08Z",
+      "traceId": "0d51b630f5e4d28cf9abf0653a0342c1",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.b94422c62a30aff0ab212e0619806c532291e217bd3c80aa22f0f3c4bca7c47b.ffaef19ed7^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-449-Unsigned.pdf", "Caso-449-Signed.pdf"]
+    },
+    {
+      "id": 450,
+      "ts": "2026-06-26T12:40:10Z",
+      "traceId": "8cdadbfc0288d25a74f56c6b707c9469",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.8bf3e4c8b5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-450-Unsigned.pdf", "Caso-450-Signed.pdf"]
+    },
+    {
+      "id": 451,
+      "ts": "2026-06-26T12:42:04Z",
+      "traceId": "5e0a4a406edd6e1cc0a8cc356863ff13",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.cdf23ba9ca8218b7b98537f5d2d15834887f5488a9a295bfaecb63778747e5bf.adffe855f3^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-451-Unsigned.pdf", "Caso-451-Signed.pdf"]
+    },
+    {
+      "id": 461,
+      "ts": "2026-06-26T11:25:58Z",
+      "traceId": "22714e348a6849d47ef653b63dc8a92e",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.5539b92e27^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-461-Unsigned.pdf"]
+    },
+    {
+      "id": 467,
+      "ts": "2026-06-26T12:32:59Z",
+      "traceId": "2811384b8192b6e5f16cf613597ebf64",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30.4.4.de3daca6a937e505613555f4f5bd599fada0d2b4a253139611a2bf3ce5c7594c.9e94638fc1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-467-Unsigned.pdf"]
+    },
+    {
+      "id": 468,
+      "ts": "2026-06-26T11:26:44Z",
+      "traceId": "b77e6daae3b80b2243630c3676385370",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.30931.4.4.75b167181ef4fd16ae5df34a55c9b9e1e7c4b84318d56d5978989f87093fea89.f0f3416c0d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["Caso-468-Unsigned.pdf"]
+    }
+  ]
+}
